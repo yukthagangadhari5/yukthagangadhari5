@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Yuktha 👋
 
-<!--
-**yukthagangadhari5/yukthagangadhari5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Student in Artificial Intelligence  
+💻 Python | Machine Learning | Open Source Beginner  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Programming: Python
+- ML: Pandas, NumPy, Scikit-learn
+- Tools: Git, GitHub, SQL
+- Interests: AI, Open Source, Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 📊 Stock Market Analysis using AI
+- 🏠 House Price Prediction
+- ✅ To-Do List Web App
+- 📈 Student Marks Analyzer
+
+### 🌍 Open Source
+- Exploring beginner-friendly open source projects
+- Actively learning how to contribute
+
+📫 Reach me at: yukthagangadhari@gmail.com
