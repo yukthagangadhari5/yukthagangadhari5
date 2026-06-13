@@ -1,88 +1,99 @@
 Hi, I'm Yuktha Gangadhari 👋
 
-🎓 Final Year B.Tech Student in Artificial Intelligence
+🎓 Final Year B.Tech Student in Artificial Intelligence @ UMIT Mumbai (CGPA 8.4/10)
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
+🤖 AI Engineer — Building production LLM apps, agentic systems, and RAG pipelines
 
-🚀 Building AI-powered solutions and continuously exploring emerging technologies, open source, and real-world problem-solving.
+🚀 Fluent across the full stack: FastAPI · LangChain · LangGraph · React · MongoDB
 
----
+📍 Mumbai, India · Open to Remote AI/ML Internships
+
 
 🛠️ Skills
 
+AI & LLMs
+LangChain · LangGraph · FAISS · HuggingFace · RAG · Multi-Agent Systems · Groq API · Prompt Engineering
+
+Backend & APIs
+FastAPI · Node.js · REST API Development · MongoDB · PostgreSQL · Real-time Data Pipelines
+
+Frontend
+React · TypeScript · Full-Stack Development
+
+ML
+Deep Learning (LSTM) · Computer Vision (YOLOv8) · NLP · Model Evaluation · Model Optimization
+
 Languages
+Python · JavaScript · TypeScript · C++
 
-- Python
-- SQL
-- JavaScript (Basic)
+Dev & Infra
+Git · GitHub · CI/CD (GitHub Actions) · Cursor AI · GitHub Copilot · VS Code
 
-AI & Machine Learning
-
-- Machine Learning
-- Data Analysis
-- Pandas
-- NumPy
-- Scikit-learn
-
-Development & Tools
-
-- Flask
-- Git & GitHub
-- HTML
-- CSS
-- Jupyter Notebook
-- VS Code
-
----
 
 🚀 Featured Projects
 
-📈 AI Stock Market Prediction
+🤖 Autonomous Email Intelligence Agent
 
-Predicts stock market trends using machine learning and historical financial data.
+Node.js TypeScript Gmail API OAuth 2.0 LLaMA 3.1 (Groq)
+
+Full agentic loop — Gmail ingestion → LLM intent classification → reply generation → auto-save drafts in ~20 seconds. 0.93 average confidence score. Token tracking + OAuth 2.0 packaged as production-ready CLI.
+
+→ GitHub
 
 💰 AI Finance Assistant
 
-An AI-powered assistant designed to analyze financial information and provide useful insights.
+LangChain LangGraph FAISS FastAPI React Gemini API
 
-📧 Autonomous Email Intelligence Agent
+Multi-agent LLM system with router + research agents. Indexed 9,189 chunks across 24 RBI annual reports via FAISS RAG pipeline. Returns answers in under 2 seconds with full token tracking and confidence scoring.
 
-Intelligent email automation system for classification, understanding, and response generation.
+→ GitHub
 
-🚗 AI Parking EV Optimizer
+📈 AI Stock Market Prediction (Live on Render)
 
-Smart parking optimization solution for electric vehicles using AI-driven decision-making.
+Python LSTM NumPy Pandas
 
-🏠 House Price Predictor
+LSTM model trained on 5 years of historical data achieving 87% directional accuracy — outperforming moving-average baseline by 14 percentage points.
 
-Machine learning model that estimates house prices based on property features.
+→ GitHub · Live Demo
 
-🎓 Student Marks Analyzer
+🏠 AI Parking EV Optimizer
 
-Analytics tool that evaluates student performance and generates meaningful insights.
+Python AI Optimization
 
----
+Smart parking optimization for electric vehicles using AI-driven decision-making.
 
-🌱 Currently Learning
+→ GitHub
 
-- Generative AI
-- AI Agents
-- Open Source Contributions
-- Advanced Machine Learning
 
----
+💼 Experience
+
+Technology Intern — AI/ML & NLP @ Infosys Springboard (Sep 2025 – Nov 2025)
+
+
+Built SalesCallAssistant-Nexus — real-time sales call assistant for transcription, sentiment analysis, and conversation insights using FastAPI + NLP pipelines
+NLP pipelines processing ~50,000 records/run, cutting manual data handling by ~60%
+6 production REST API endpoints — ~500 requests/day, sub-300ms response times
+CI/CD via GitHub Actions — reduced deployment time from ~1 hour to under 10 minutes
+Zero unplanned downtime over 2-month production engagement
+
+
+
+🔨 Currently Building
+
+
+Production RAG systems with advanced retrieval strategies
+Agentic AI workflows with tool use and memory
+Open source contributions in the LLM ecosystem
+
+
 
 📫 Connect With Me
 
-🔗 LinkedIn:
-www.linkedin.com/in/yuktha-gangadhari-a34302362
+🔗 LinkedIn: https://www.linkedin.com/in/yuktha-gangadhari-a34302362/
 
-📧 Email:
-yukthagangadhari@gmail.com
+📧 Email: yukthagangadhari@gmail.com
 
-🐙 GitHub:
-github.com/yukthagangadhari5
+🐙 GitHub: https://github.com/yukthagangadhari5
 
----
 
-⭐ "Building technology that creates real-world impact."
+⭐ "Ship fast. Build real. Make it work in production."
