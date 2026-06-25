@@ -62,19 +62,7 @@ Python AI Optimization
 
 Smart parking optimization for electric vehicles using AI-driven decision-making.
 
-→ GitHub
 
-
-💼 Experience
-
-Technology Intern — AI/ML & NLP @ Infosys Springboard (Sep 2025 – Nov 2025)
-
-
-Built SalesCallAssistant-Nexus — real-time sales call assistant for transcription, sentiment analysis, and conversation insights using FastAPI + NLP pipelines
-NLP pipelines processing ~50,000 records/run, cutting manual data handling by ~60%
-6 production REST API endpoints — ~500 requests/day, sub-300ms response times
-CI/CD via GitHub Actions — reduced deployment time from ~1 hour to under 10 minutes
-Zero unplanned downtime over 2-month production engagement
 
 
 
